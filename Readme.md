@@ -12,4 +12,4 @@ setelah diterapkan menggunakan OpenCV hasilnya adalah sebagai berikut:
 ![](hasil.png)
 
 ----
-Untuk yang mau mencoba eksplorasi lebih lanjut, silahkan salin kode pada gambar dibawah. Thanks :)
+Untuk yang mau mencoba eksplorasi lebih lanjut, silahkan forks saja ya. Thanks :)
